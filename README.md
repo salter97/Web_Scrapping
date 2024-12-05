@@ -11,4 +11,4 @@ This project is a web scraping tool designed to extract and analyze player stati
 ### Link
 - https://apexlegendsstatus.com/algs/Y4-Split2/ALGS-Playoffs/Global/Overview#tab-weaponsStats
 ### Output
-The script outputs a CSV file (`algs.csv`) containing detailed player statistics, including columns like Player Name, Kills, Points, etc.
+The script outputs a CSV file (`Player_Stats.csv`) containing detailed player statistics, including columns like Player Name, Kills, Points, etc.
