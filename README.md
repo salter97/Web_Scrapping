@@ -1,1 +1,1 @@
-# Web Scraping Esports Data For Data Analysis From Third Party Websites
+# Web Scraping Esports Data For Data Analysis 
